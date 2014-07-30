@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <usb-device class ="0008"/>
+    <usb-device class = "0003" />
+    <usb-device class = "0009" />
+</resources>
